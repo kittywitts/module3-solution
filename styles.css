@@ -84,14 +84,17 @@ h1 {
 
 .name1 {
   background-color: #ffb6c1;
+  text-align: center;
 }
 
 .name2 {
   color: white;
   background-color: #ff0000;
+  text-align: center;
 }
 .name3 {
   background-color: #ffff00;
+  text-align: center;
 }
 
 /********** Large devices only **********/
