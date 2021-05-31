@@ -1,7 +1,8 @@
 #header-nav {
   background-color: #f6b319;
   border-radius: 0;
-  border: 0;
+  border: 1;
+  height:30px;
 }
 
 .navbar-brand h1 { 
@@ -53,7 +54,7 @@ h1 {
 .box {
   width: 100%;
   overflow: none;
-    align: center;
+   text-align: center;
 }
 
 .content-name {
@@ -64,7 +65,7 @@ h1 {
   height: 40px;
   padding: 5px;
   float: right;
-  margin-right: 36px;
+  margin-right:380px;
   margin-top: 0px;
   font-weight: bold;
   position: relative;
@@ -85,9 +86,10 @@ h1 {
 .name1 {
   background-color: #ffb6c1;
   text-align: center;
+
 }
 
-.content-name name2 {
+.name2 {
   color: white;
   background-color: #ff0000;
   text-align: center;
@@ -96,7 +98,6 @@ h1 {
   background-color: #ffff00;
   text-align: center;
 }
-
 /********** Large devices only **********/
 @media (min-width: 992px) {
   .col-lg-4 {
